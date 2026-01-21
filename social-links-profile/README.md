@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social links profile solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -22,8 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/ValerioFerreira/frontend-mentor/tree/main/qrcode-component)
-- Live Site URL: [Live Demo](https://valerioferreira.github.io/frontend-mentor/qrcode-component/)
+- Solution URL: [GitHub Repository](https://github.com/ValerioFerreira/frontend-mentor/tree/main/social-links-profile)
+- Live Site URL: [Live Demo](https://valerioferreira.github.io/frontend-mentor/social-links-profile/)
+
 
 ## My process
 
@@ -35,15 +36,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This was my first Frontend Mentor challenge, and it helped me reinforce fundamental concepts such as color usage, typography, text alignment, and working with images. I also practiced how to visually highlight a main piece of content on the page and organize the layout in a clean and simple way.
+Got excited with the challenges, and made this second one today. I was able to practice the hovering feature and using a font from a file type that i had never seen (.ttf). Also, i got to practice the CSS classes concept, which i had only seen briefely on a YT video. I had a hard time trying to follow the designated colors and font sizes from the style guide, because they weren't matching visually with the proposed page design, so i had to alter them a little (the sizes, specially). 
 
 ### Continued development
 
-I want to continue improving all my front-end fundamentals. Since I am new to the area, my goal is to keep practicing HTML and CSS, improve my understanding of layouts, responsiveness, and gradually move on to more advanced concepts and challenges.
+I think this is the beggining of a fun journey, can't wait to see the feedbacks and the next challenges. Thank you all!
 
 ### Useful resources
 
-- [Google Fonts](https://fonts.google.com/) – Used to find and apply the correct font for the project.
 - [Curso em Vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/) – Video lessons that helped me understand and apply HTML and CSS concepts.
 
 ## Author
