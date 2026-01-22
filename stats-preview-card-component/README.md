@@ -40,11 +40,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### What I learned
 
-Got excited with the challenges, and made this second one today. I was able to practice the hovering feature and using a font from a file type that i had never seen (.ttf). Also, i got to practice the CSS classes concept, which i had only seen briefely on a YT video. I had a hard time trying to follow the designated colors and font sizes from the style guide, because they weren't matching visually with the proposed page design, so i had to alter them a little (the sizes, specially). 
+Here it goes, my third exercise! Way harder than it looks, specially due to the responsivity, something that i had never done before. I'm very happy with the results, and i'm looking for more. 
 
 ### Continued development
 
-I think this is the beggining of a fun journey, can't wait to see the feedbacks and the next challenges. Thank you all!
+I really think that i have to study a lot more to feel confident enough to do those challenges, but i'll keep making them without full confidence, and maybe it will be built along the way.
 
 ### Useful resources
 
